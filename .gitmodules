@@ -1,6 +1,0 @@
-[submodule "ins_board_pc"]
-	path = ins_board_pc
-	url = ../ins-board-pc.git
-[submodule "tests"]
-	path = tests
-	url = ../tests.git
