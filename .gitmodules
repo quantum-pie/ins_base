@@ -1,0 +1,6 @@
+[submodule "ins_board_pc"]
+	path = ins_board_pc
+	url = ./ins_board_pc/
+[submodule "tests"]
+	path = tests
+	url = ./tests/
