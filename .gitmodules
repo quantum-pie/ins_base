@@ -1,6 +1,8 @@
 [submodule "ins_board_pc"]
 	path = ins_board_pc
 	url = ../ins-board-pc.git
+	branch = master
 [submodule "tests"]
 	path = tests
 	url = ../tests.git
+	branch = master
